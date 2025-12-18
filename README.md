@@ -44,8 +44,3 @@ This project demonstrates practical React concepts like state management, side e
 ```bash
 npm install
 npm start
-
-👩‍💻 Author
-
-Prakruthi H
-Aspiring Software Engineer | React Learner
