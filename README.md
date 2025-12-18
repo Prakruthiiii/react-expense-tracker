@@ -1,12 +1,18 @@
-# Smart Expense Manager 💰
+# 💰 Smart Expense Manager (React)
 
-## 📌 Project Overview
+A simple and clean **React Expense Tracker Application** built using **functional components and React Hooks**.
 
-Smart Expense Manager is a **React-based web application** that helps users
-track their daily expenses in a simple and organized way.
+This project demonstrates practical React concepts like state management, side effects, and data persistence.
 
-This project is built to demonstrate **React fundamentals**, component-based
-architecture, state management, and clean UI design.
+---
+
+## 🚀 Features
+
+- Add expenses with name and amount
+- Delete expenses
+- Calculate total expenses automatically
+- Persist data using **localStorage**
+- Responsive and clean UI
 
 ---
 
@@ -16,21 +22,17 @@ architecture, state management, and clean UI design.
 - JavaScript (ES6)
 - HTML5
 - CSS3
-- Git & GitHub
 
 ---
 
-## ✨ Features
+## 🧠 Concepts Used
 
-- Add daily expenses
-- Categorize expenses (Food, Travel, Shopping, etc.)
-- View expense list dynamically
-- Responsive UI
-- Clean and beginner-friendly code structure
+- `useState` for state management
+- `useEffect` for side effects
+- LocalStorage for data persistence
+- Component-based architecture
 
 ---
-
-## 📂 Project Structure
 
 ## ▶️ How to Run the Project
 
@@ -39,34 +41,11 @@ architecture, state management, and clean UI design.
 - npm
 
 ### Steps
-
 ```bash
 npm install
 npm start
 
-📌 This is **documentation only**, not something that auto-runs.
+👩‍💻 Author
 
----
-
-## ❗ Common confusion (important)
-
-- ❌ Writing `npm start` in README **does NOT execute it**
-- ✅ It only **shows instructions** for the reviewer
-
-The interviewer will:
-1. Clone your repo
-2. Read README
-3. Run these commands themselves
-
----
-
-## 🔍 What if I already ran `npm start` before?
-
-Totally fine 👍  
-You **don’t need to do anything again**.
-
-Just:
-```bash
-git add README.md
-git commit -m "Update README with run instructions"
-git push
+Prakruthi H
+Aspiring Software Engineer | React Learner
