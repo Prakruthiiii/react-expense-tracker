@@ -44,3 +44,21 @@ This project demonstrates practical React concepts like state management, side e
 ```bash
 npm install
 npm start
+ ---
+
+## 📚 What I Learned
+
+- Building reusable components
+- Managing application state using React Hooks
+- Handling user input and events
+- Persisting data using browser storage
+- Improving UI responsiveness
+
+---
+
+## 🔮 Future Improvements
+
+- Add categories for expenses
+- Monthly expense summary
+- Charts & analytics
+- User authentication
